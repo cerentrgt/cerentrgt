@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ceren Turgut</h1>
 <h3 align="center">Hello! I was born on May 26, 2002, in Konya. I completed my primary and middle school education at Karma Middle School, where my journey began. I spent my high school years at Cemilkeleşoğlu Anatolian High School, one of the prominent high schools in Konya. The doors to university opened for me at Selçuk University, where I pursued a degree in Computer Engineering. My experiences in the business world began at Sentius Technology Company. I learned Wordpress and SEO article writing, enhancing my skills in this field. I also brought more than 100 designs to life using Canva. Then, my second work adventure began at BilgeAdam Technology Company. After completing a Mendix-Java training for the first 3 months, I started working part-time. In my belief, there is nothing that a person cannot achieve once they set their mind to it. As long as they put their heart and effort into the desired job. I'm interested in Flutter, React, C#, and Mendix. I've developed three projects with Flutter and coded the backend of my rent-a-car project with C#.</h3>
+<h4 align="center">Selam! 
+Ben, 26 Mayıs 2002 tarihinde Konya'da dünyaya gelmiş biriyim. İlköğretimi ve ortaokulu, serüvenime başladığım Karma Ortaokulu'nda tamamladım. Lise yıllarımı ise Konya'nın sayılı liselerinden olan Cemilkeleşoğlu Anadolu Lisesi'nde geçirdim. Üniversite kapıları ise Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünde açıldı.
+İlk adımlarımı attığım iş dünyasındaki deneyimlerim, Sentius Teknoloji Şirketi'nde başladı. Wordpress ve SEO makale yazılımını öğrenerek bu alandaki becerilerimi geliştirdim. Canva'da da 100'den fazla tasarımı hayata geçirdim.
+Ardından BilgeAdam Teknoloji Şirketi'nde ikinci çalışma maceram başladı. İlk 3 ay boyunca Mendix-Java eğitimi aldıktan sonra part-time olarak göreve başladım.
+Benim inancıma göre, insanın aklına koyduktan sonra yapamayacağı bir şey yok. Yeter ki istediği iş için yüreğini ve emeğini koysun.
+Flutter, React, C# ve Mendix ile ilgilenmekteyim. Flutter ile 3 proje geliştirdim. C# ile rent a car projemin backendini kodladım. <h4>
 
 - 🔭Araba kiralama sitesi kodladım [Rent A Car](https://github.com/cerentrgt/RentACar)
 
-- 🌱 Personel Mobil Uygulamam **https://github.com/cerentrgt/ctryazilim**
+- 🌱 Personel Mobil Uygulamam [Personel Mobil Uygulama](https://github.com/cerentrgt/ctryazilim) 
 
-- 👯 Flutter-Firebase Mobil Uygulama [Senin Hayatın](https://github.com/cerentrgt/SeninHayatin)
+- 👯 Senin Hayatın Anı Defterin [Senin Hayatın](https://github.com/cerentrgt/SeninHayatin)
 
 - 🤝 Dört İşlem Uygulamam [Dört İşlem](https://github.com/cerentrgt/dort_islem)
 
@@ -18,4 +24,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
